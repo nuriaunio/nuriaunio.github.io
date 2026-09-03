@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: A brief personal description
+title: Sobre mi ;)
+subtitle: Una mica de descripció i tal
 ---
 
-My name is Homer Simpson, I am from Springfield and I love learning new skills. Have a look at my background below!
+Iei! Em dic Núria Unió i soc de Lleida. Començaré Enginyeria Industrial ;) 
 
-### Education
+### Estudis
 
-- The Hood Education (1992)
-- B2 English Level
+- El Batxi i tal.
 
-### Experience
-- Nuclear Reactor engineer
-- Eating burguers
+### Experiencia
+- Gens
