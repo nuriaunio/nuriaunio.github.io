@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
 title: My website
-author: Homer Simpson
+author: Núria Unió
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -36,13 +36,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "homer.simpson@gmail.com"
-  facebook: homer.simpson
-  github: homer.simpson
-  twitter: "@homeeer"
-  youtube: "@homer.simpson"
-  linkedin: homer.simpson
-  whatsapp: "34666666666"  # Afegeix el teu número aquí (codi país + número)
+  email: "mebroto@gmail.com"
+  facebook: me.broto
+  github: nuriaunio
+  twitter: "@iei"
+  youtube: "@pala.brota"
+  linkedin: pala.brota
+  whatsapp: "677667767"  # Afegeix el teu número aquí (codi país + número)
 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -80,7 +80,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "homersimpson.github.io"
+url-pretty: "nuriaunio.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -114,8 +114,8 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
+page-col: "#F5D9FC"
+text-col: "#500D61"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 navbar-col: "#EAEAEA"
