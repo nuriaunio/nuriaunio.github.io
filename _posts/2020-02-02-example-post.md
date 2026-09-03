@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: Post dos
+subtitle: Subtitol ok
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -12,11 +12,11 @@ author: Bill Smith
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Si aixo esta be flipo heavy
 
-**Here is some bold text**
+**Aqui posa noseque en negreta**
 
-## Here is a secondary heading
+## I aqui un atre titul
 
 [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
@@ -32,11 +32,11 @@ Here's a table:
 
 How about a yummy crepe?
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![Crepe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqaBhunyxT_z5UsaajDEavzVGIUu-C230yWLVDEsf4_gXDE4qPLdidItz7&s=10)
 
 It can also be centered!
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![Crepe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqaBhunyxT_z5UsaajDEavzVGIUu-C230yWLVDEsf4_gXDE4qPLdidItz7&s=10){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
