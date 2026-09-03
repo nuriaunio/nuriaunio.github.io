@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Example
-subtitle: An example page
+title: Exemple
+subtitle: Una pagina de exemple
 ---
 
 This is an example page, if you want to delete it follow this steps:
